@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I’m Harrison – aka <span style="color:#00bfff">ChiduTech</span></h1>
 
-<!--
-**Osinemem1/Osinemem1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧑‍💻 Full Stack Developer | Laravel Enthusiast | Web3 Automation Builder  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔧 I specialize in building **scalable platforms** and **automation tools**.
+- 🔬 Currently diving into **Solidity** and **Node.js** to expand my Web3 skillset.
+- 📫 You can reach me at: **harrisonnwoti@gmail.com**
+
+---
+
+### 💻 Tech Stack
+
+> 🧠 My main tools and technologies:
+
+#### 🛠️ Backend
+- Laravel • PHP • MySQL
+
+#### 🎨 Frontend
+- HTML • CSS • JavaScript  
+- Bootstrap • Tailwind CSS
+
+#### 🧰 Tools
+- Git • VS Code • XAMPP • Postman
+
+
