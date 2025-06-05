@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Harrison – aka <span style="color:#00bfff">ChiduTech</span></h1>
+<h1 align="center">👋 Hi, I’m Harrison – aka <span style="color:#00bfff">HazzaTech</span></h1>
 
 <p align="center">
   🧑‍💻 Full Stack Developer | Laravel Enthusiast | Web3 Automation Builder  
