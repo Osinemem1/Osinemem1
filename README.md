@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Harrison – aka <span style="color:#00bfff">HazzaTech</span></h1>
 
 <p align="center">
-  🧑‍💻 Full Stack Developer | Laravel Enthusiast | Web3 Automation Builder  
+  🧑‍💻 Full-Stack Developer | Laravel & Rust | Building Secure & Scalable Systems
 </p>
 
 ---
@@ -9,23 +9,20 @@
 ### 🚀 About Me
 
 - 🔧 I specialize in building **scalable platforms** and **automation tools**.
-- 🔬 Currently diving into **Solidity** and **Node.js** to expand my Web3 skillset.
+- 🔬 **Expanding my arsenal:** diving into **Rust** for systems programming and **Web3** with Solidity.
+- 🦀 **Current Project:** Building security and performance tools with Rust.
 - 📫 You can reach me at: **harrisonnwoti@gmail.com**
 
 ---
 
 ### 💻 Tech Stack
 
-> 🧠 My main tools and technologies:
-
-#### 🛠️ Backend
-- Laravel • PHP • MySQL
+#### 🛠️ Backend & Systems
+- **Laravel • PHP • MySQL • Rust**
 
 #### 🎨 Frontend
-- HTML • CSS • JavaScript  
+- **HTML • CSS • JavaScript**
 - Bootstrap • Tailwind CSS
 
-#### 🧰 Tools
-- Git • VS Code • XAMPP • Postman
-
-
+#### 🧰 Tools & DevOps
+- **Git • VS Code • Postman • Linux**
