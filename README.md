@@ -11,7 +11,7 @@
 - 🔧 I specialize in building **scalable platforms** and **automation tools** with Laravel.
 - 🦀 **Currently learning Rust** by building practical tools to understand systems programming.
 - 🛡️ **Exploring cybersecurity** through projects like file integrity monitors and ethical research tools.
-- 📫 You can reach me at: **harrisonnwoti@gmail.com**
+- 📫 You can reach me at: **debia723@gmail.com**
 
 ---
 
