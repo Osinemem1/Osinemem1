@@ -1,26 +1,22 @@
 👋 Hi, I'm Harrison Nwoti (HazzaTech)
 
-"Profile Views" (https://komarev.com/ghpvc/?username=Osinemem1&label=Profile%20Views&color=blue&style=flat)
-
----
-
 🚀 Founder of Hazza Tech Hub Ltd
 
-I am a Full-Stack Developer and Technology Founder building scalable platforms, automation tools, and digital solutions for businesses.
+I am a Full-Stack Developer and technology founder building scalable web platforms, automation tools, and digital solutions for businesses.
 
-I founded Hazza Tech Hub Ltd, a technology company focused on software development, web platforms, and innovative digital infrastructure.
+I founded Hazza Tech Hub Ltd, a technology company focused on software development, web platforms, and digital infrastructure.
 
-I specialize in Laravel backend development and I am currently expanding my skills into Rust systems programming and cybersecurity research.
+I specialize in Laravel backend development and I am currently learning Rust for systems programming.
 
 ---
 
 🧠 What I Do
 
-🔹 Build scalable web applications
-🔹 Develop secure backend APIs
-🔹 Create automation tools
-🔹 Research cybersecurity tools
-🔹 Build software products for businesses
+- Build scalable web applications
+- Develop secure backend APIs
+- Create automation tools
+- Explore cybersecurity research
+- Build software solutions for businesses
 
 ---
 
@@ -28,26 +24,27 @@ I specialize in Laravel backend development and I am currently expanding my skil
 
 Backend
 
-"Laravel" (https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-"PHP" (https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
-"MySQL" (https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
+- Laravel
+- PHP
+- MySQL
 
 Frontend
 
-"HTML" (https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-"CSS" (https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-"JavaScript" (https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-"Tailwind" (https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
 
 Systems
 
-"Rust" (https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+- Rust (Learning)
 
 Tools
 
-"Git" (https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-"VS Code" (https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
-"Linux" (https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+- Git
+- VS Code
+- Linux
+- Postman
 
 ---
 
@@ -57,34 +54,26 @@ Founder of Hazza Tech Hub Ltd
 
 A technology company focused on:
 
-• Web Platforms
-• Software Development
-• Automation Tools
-• Digital Infrastructure
-
----
-
-📊 GitHub Stats
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Osinemem1&show_icons=true&theme=radical)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Osinemem1&layout=compact&theme=radical)
+- Web Platforms
+- Software Development
+- Automation Tools
+- Digital Infrastructure
 
 ---
 
 🎯 Current Goals
 
-• Grow Hazza Tech Hub Ltd
-• Build powerful software platforms
-• Master Rust systems programming
-• Launch global tech products
-• Contribute to open-source projects
+- Grow Hazza Tech Hub Ltd
+- Build powerful web platforms
+- Master Rust systems programming
+- Launch innovative software products
+- Contribute to open-source projects
 
 ---
 
 📫 Contact
 
-📧 Email: hazzatechhub@gmail.com
+Email: hazzatechhub@gmail.com
 
 ---
 
